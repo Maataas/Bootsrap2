@@ -1,0 +1,59 @@
+.pirmas {
+    background-color: pink;
+    width: 800px;
+    height: 660px;
+    margin-left: calc((100% - 800px)/2);
+    margin-top: 50px;
+   
+    
+}
+
+.header {
+    text-align: center;
+    background-color: rgba(0, 255, 255, 0.384);
+    font-weight: 600;
+    font-size: 25px;
+    color: rgba(255, 255, 255, 0.986);
+    height: 70px;
+    margin-top: 30px;
+    margin-left: 35px;
+
+}
+
+.ASIDE {
+    text-align: center;
+    background-color: rgba(0, 255, 255, 0.384);
+    font-weight: 600;
+    font-size: 25px;
+    color: rgba(255, 255, 255, 0.986);
+    height: 400px;
+    margin-top: 30px;
+    margin-left: 35px;
+    line-height: 15;
+}
+
+.ARTICLE {
+    text-align: center;
+    background-color: rgba(241, 14, 14, 0.384);
+    font-weight: 600;
+    font-size: 25px;
+    color: rgba(255, 255, 255, 0.986);
+    height: 400px;
+    margin-top: 30px;
+    margin-left: 35px;
+    line-height: 5;
+    width: 497PX;
+}
+
+.image {
+    height: 150px;
+    background-color: rgb(202, 198, 198);
+    margin-left: 32px;
+    line-height: 6;
+    
+}
+
+h1 {
+    margin-top: 180px;
+    font-size: 25px;
+}
